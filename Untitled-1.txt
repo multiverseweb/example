@@ -1,3 +1,12 @@
 hey!
 this is an example file.
 this is a change.
+
+- git clone
+- git status
+- git log
+- git remote
+- git push
+- git commit
+- git add
+- git restore
