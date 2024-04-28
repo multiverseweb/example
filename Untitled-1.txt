@@ -2,7 +2,6 @@ hey!
 this is an example file.
 this is a change.
 
-commonly used git commands
 - git clone
 - git status
 - git log
@@ -11,3 +10,4 @@ commonly used git commands
 - git commit
 - git add
 - git restore
+- git pull
